@@ -17,9 +17,27 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Sureshs GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aatitkarki&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />]
-  
+
+<p align="left">
+  <img width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="350" alt="accessibility text">
+</p>
+<p align="left">
+  <img width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="350" alt="accessibility text">
+</p>
+<p align="left">
+  <img width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="350" alt="accessibility text">
+</p>
+<p align="left">
+  <img width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="350" alt="accessibility text">
+</p>
+<p align="left">
+  <img width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="350" alt="accessibility text">
+</p>
+
+
+
+<img align="left" alt="Sureshs GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aatitkarki&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+
 [website]: https://sureshk.com.np
 [twitter]: https://twitter.com/aatit_karki
 [instagram]: https://www.instagram.com/karkeysuresh/
