@@ -25,7 +25,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
-[<img align="left" alt="Suresh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aatitkarki&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />]
+[<img align="left" alt="Sureshs GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aatitkarki&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />]
   
 [website]: https://sureshk.com.np
 [twitter]: https://twitter.com/aatit_karki
