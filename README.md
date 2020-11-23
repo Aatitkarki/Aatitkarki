@@ -29,5 +29,5 @@
 
 [website]: https://sureshk.com.np
 [twitter]: https://twitter.com/aatit_karki
-[instagram]: https://www.instagram.com/karkeysuresh/
+[instagram]: https://www.instagram.com/flutterdevsuresh/
 [linkedin]: https://www.linkedin.com/in/suresh-karki-347699196/
