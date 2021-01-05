@@ -7,7 +7,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess.
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ### Connect with me:
+
 
 [<img align="left" alt="sureshk.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Suresh Karki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
