@@ -1,11 +1,11 @@
 ### Hi there, I'm Suresh Karki - aka [Aatitkarki][website] 👋
 ## I'm a Student, Developer, and Freelancer!!
 
-- 🔭 I just completed my 2 freelancing projects!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I have completed my 10 freelancing projects!
+- 🌱 I’m currently mastering flutter, firebase and node.js 🤣
 - 👯 I’m looking to work with other companies and developers.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess.
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I am a good chess player.
 
 ![](https://komarev.com/ghpvc/?username=aatitkarki)
 
