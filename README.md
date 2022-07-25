@@ -4,7 +4,7 @@
 - 🔭 I have completed my 10 freelancing projects!
 - 🌱 I’m currently mastering flutter, firebase and node.js 🤣
 - 👯 I’m looking to work with other companies and developers.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a good chess player.
 
 ![](https://komarev.com/ghpvc/?username=aatitkarki)
